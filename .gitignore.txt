@@ -1,0 +1,8 @@
+# Ignore build outputs 
+target/
+*.jar
+*.war
+*.class
+
+# Jib cache
+**/jib-cache/
