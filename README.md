@@ -52,7 +52,7 @@ If you're ready to empower your child with the tools for lifelong success and cr
 
 ## 🖼 Preview
 
-![World School Courses](assets/images/c1.jpg)
+![World School Courses](https://github.com/vinaysteja2/WorldSchool_BN-FN/blob/master/worldschool/ScreenShots/Screenshot%202025-07-05%20095418.png?raw=true)
 
 ---
 
